@@ -1,24 +1,17 @@
 #+TITLE: Hi! Eduardo Here
 #+AUTHOR: eduardoroboto
 
-still work in progress!11!!
-
 student in computer science trying to finish college.
 
 ** i like
-
 + Linux 
 + Eletronics
 + Free Software
-+ Anime
-
 
 ** what I do?
-Just study and  hack (legally!)
-
+Just study and  hack
 
 ** Some  interesting projects I maintain:
-
 + [[https://github.com/eduardoroboto/dots][dotfiles + emacs config]]
 
 
