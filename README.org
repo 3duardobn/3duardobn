@@ -1,15 +1,9 @@
 #+TITLE: Hi! Eduardo Here
 #+AUTHOR: eduardoroboto
 
-Programmer working as back-end developer, with a side of front-end and a student in computer science trying to finish college.
+Programador back-end com um pouco de front, fazendo o curso de Ciências da Computação, tentando terminar a faculdade.
 
-** i like
-+ linux 
-+ eletronics
-+ free software
-
-** what i do?
-Just study and hack
+Back-end programmer with a little bit of front-end, majoring in Computer Science, trying to finish college
 
 ** some  interesting projects i maintain:
 + [[https://github.com/eduardoroboto/dots][dotfiles + emacs config]]
