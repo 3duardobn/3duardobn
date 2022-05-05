@@ -1,7 +1,7 @@
 #+TITLE: Hi! Eduardo Here
 #+AUTHOR: eduardoroboto
 
-student in computer science trying to finish college.
+Programmer working as back-end developer, with a side of front-end and a student in computer science trying to finish college.
 
 ** i like
 + linux 
