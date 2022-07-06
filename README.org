@@ -1,32 +1,30 @@
 #+TITLE: Hi! Eduardo Here
 #+AUTHOR: eduardoroboto
 
-* Portuguese
+** Portuguese
 Software Developer, tentando terminar a faculdade e estudando seguraça da informação.
 
-** Projetos que mantenho
+*** Projetos que mantenho
 + [[https://git.sr.ht/~eduardoroboto/dotfiles][Dotfile]]
 
-** Sobre o Github
-Só uso essa conta Github para trabalho, aqui você vai encontrar só alguns repositórios .
+*** Sobre o Github
+Só uso essa conta Github para trabalho, aqui você vai encontrar só alguns repositórios que fiz durante a faculdade
 
-** Onde me encontrar
+*** Onde me encontrar
 + [[https://git.sr.ht/~eduardoroboto/][Sourcehut]] -> Meus projetos pessoais.
 + [[https://gitlab.com/eduardoroboto][Gitlab]] -> Também só para trabalho
 
 
 
-* English
+** English
 Software Developer, trying to finish college and studying information security.
 
-** Projects I maintain
+*** Projects I maintain
 + [[https://git.sr.ht/~eduardoroboto/dotfiles][Dotfile]]
 
+*** About these repositories
+I only use this Github account for work, here you will find just a few repositories I made during college
 
-** About these repositories
-I only use this Github account for work, here you will find only some college work repositories.
-
-
-** Where to find me
+*** Where to find me
 + [[https://git.sr.ht/~eduardoroboto/][Sourcehut]] -> My personal projects
 + [[https://gitlab.com/eduardoroboto][Gitlab]] -> Also just for work
