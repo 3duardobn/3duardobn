@@ -5,7 +5,7 @@
 Software Developer, tentando terminar a faculdade e estudando seguraça da informação.
 
 *** Projetos que mantenho
-+ [[https://git.sr.ht/~eduardoroboto/dotfiles][Dotfile]]
++ [[https://git.sr.ht/~eduardoroboto/dotfiles][Dotfiles]]
 
 *** Sobre o Github
 Só uso essa conta Github para trabalho, aqui você vai encontrar só alguns repositórios que fiz durante a faculdade
@@ -20,7 +20,7 @@ Só uso essa conta Github para trabalho, aqui você vai encontrar só alguns rep
 Software Developer, trying to finish college and studying information security.
 
 *** Projects I maintain
-+ [[https://git.sr.ht/~eduardoroboto/dotfiles][Dotfile]]
++ [[https://git.sr.ht/~eduardoroboto/dotfiles][Dotfiles]]
 
 *** About these repositories
 I only use this Github account for work, here you will find just a few repositories I made during college
