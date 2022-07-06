@@ -1,15 +1,32 @@
 #+TITLE: Hi! Eduardo Here
 #+AUTHOR: eduardoroboto
 
-Programador back-end com um pouco de front, fazendo o curso de Ciências da Computação, tentando terminar a faculdade.
+* Portuguese
+Software Developer, tentando terminar a faculdade e estudando seguraça da informação.
 
-Back-end programmer with a little bit of front-end, majoring in Computer Science, trying to finish college
+** Projetos que mantenho
++ [[https://git.sr.ht/~eduardoroboto/dotfiles][Dotfile]]
 
-** some  interesting projects i maintain:
-+ [[https://github.com/eduardoroboto/dots][dotfiles + emacs config]]
+** Sobre o Github
+Só uso essa conta Github para trabalho, aqui você vai encontrar só alguns repositórios .
+
+** Onde me encontrar
++ [[https://git.sr.ht/~eduardoroboto/][Sourcehut]] -> Meus projetos pessoais.
++ [[https://gitlab.com/eduardoroboto][Gitlab]] -> Também só para trabalho
 
 
 
+* English
+Software Developer, trying to finish college and studying information security.
+
+** Projects I maintain
++ [[https://git.sr.ht/~eduardoroboto/dotfiles][Dotfile]]
 
 
+** About these repositories
+I only use this Github account for work, here you will find only some college work repositories.
 
+
+** Where to find me
++ [[https://git.sr.ht/~eduardoroboto/][Sourcehut]] -> My personal projects
++ [[https://gitlab.com/eduardoroboto][Gitlab]] -> Also just for work
