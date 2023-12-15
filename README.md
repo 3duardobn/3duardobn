@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm Eduardo, a Brazilian Software Developer, currently working towards completing my college degree while delving into the world of information security.
+Hello there! I'm Eduardo, a Brazilian Software Developer who recently completed my college degree. I'm involved in game development and have a passion for coding in Java, Python, and Bash. Additionally, I'm deeply interested in Linux, web hacking, and reverse engineering.
 
 ## Projects I Maintain
 
@@ -10,10 +10,11 @@ I'm Eduardo, a Brazilian Software Developer, currently working towards completin
 
 ## GitHub Usage
 
-I primarily use this GitHub account for work-related projects. Here, you'll find a selection of repositories I've created during my college journey.
+I primarily use this GitHub account for work-related projects. Here, you'll find a selection of repositories I've created during my college journey, covering various programming languages and areas of interest.
 
 ## Where to Find Me
 
-- [Sourcehut](https://git.sr.ht/~eduardoroboto/): My personal projects.
-- [Gitlab](https://gitlab.com/eduardoroboto): Also used exclusively for work.
-- [My Website](https://edbn.dev): Check out my personal website at [edbn.dev](https://edbn.dev).
+- [Professional Website](https://edbn.dev): Visit my professional website at [edbn.dev](https://edbn.dev) for insights into my work and code projects.
+- [Personal Blog](https://eduardoroboto.net/): Explore my personal blog at [eduardoroboto.net](https://eduardoroboto.net/) (primarily in Brazilian Portuguese) where I share about my personal life, hobbies, and hacking adventures.
+
+Feel free to explore my projects or reach out.
