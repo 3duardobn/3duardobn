@@ -14,7 +14,7 @@ I primarily use this GitHub account for work-related projects. Here, you'll find
 
 ## Where to Find Me
 
-- [Professional Website](https://edbn.dev): Visit my professional website at [edbn.dev](https://edbn.dev) for insights into my work and code projects.
-- [Personal Blog](https://eduardoroboto.net/): Explore my personal blog at [eduardoroboto.net](https://eduardoroboto.net/) (primarily in Brazilian Portuguese) where I share about my personal life, hobbies, and hacking adventures.
+- [edbn.dev](https://edbn.dev): Discover my professional website, showcasing my portfolio, code repositories, and ways to get in touch. Ideal for exploring my latest projects and professional insights.
+- [Personal Blog](https://eduardoroboto.net/): Read my blog (mainly in Brazilian Portuguese) for a closer look at my personal interests, hobbies, and tech adventures.
 
-Feel free to explore my projects or reach out.
+Feel free to reach out or explore my work!
