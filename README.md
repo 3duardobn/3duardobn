@@ -1,16 +1,23 @@
 # Eduardo
 
-## About Me
+## Experience
 
-Hello there! I'm Eduardo, a Brazilian Software Developer who recently completed my college degree. I have a passion for coding in Java, Python, and Shell scripting. Additionally, I'm deeply interested in Linux, web hacking, and reverse engineering.
+Brazilian full-stack developer with a focus on **Java** and strong experience in **Spring Boot**, building secure, scalable, and production-ready applications. Skilled in designing APIs, authentication flows (Keycloak + Spring Gateway), and integrating business logic with databases.
+
+Background includes projects in **Python**, **Shell scripting**, **Lisp**, and **Common Lisp**, often paired with a deep interest in **Linux systems**, automation, security, and the study of programming languages (collecting and reading programming languages books as a hobby).
+
+## Currently Learning
+
+* Advanced Spring Boot patterns
+* System design
+* Applied security in distributed applications
+* Forensic computing (academic and personal research focus)
 
 ## GitHub Usage
 
-I primarily use this GitHub account for work-related projects. Here, you'll find a selection of repositories I've created during my college journey, and backup from my sourcehut
+This account mainly hosts professional work and selected side projects. You’ll also find backups of older repositories from my college and experiments.
 
 ## Where to Find Me
 
-- [edbn.dev](https://edbn.dev): Just a pages, with my linktree.
-- [Personal Blog](https://eduardoroboto.net/): Read my blog (in Brazilian Portuguese) for a closer look at my personal interests, hobbies, and tech adventures.
-
-Feel free to reach out!
+* [edbn.dev](https://edbn.dev): My linktree.
+* [Personal Blog](https://eduardoroboto.net/): A personal blog (in Brazilian Portuguese) where I share thoughts on tech, programming, and hobbies.
