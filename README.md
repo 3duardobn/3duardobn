@@ -1,5 +1,3 @@
-# Eduardo
-
 ## Experience
 
 Brazilian full-stack developer with a focus on **Java** and strong experience in **Spring Boot**, building secure, scalable, and production-ready applications. Skilled in designing APIs, authentication flows (Keycloak + Spring Gateway), and integrating business logic with databases.
