@@ -6,7 +6,7 @@
 
 [![Website](https://img.shields.io/badge/edbn.dev-0a0a0a?style=flat-square&logo=aboutdotme&logoColor=white)](https://edbn.dev)
 [![Blog](https://img.shields.io/badge/eduardoroboto.net-1a1a2e?style=flat-square&logo=hugo&logoColor=white)](https://eduardoroboto.net)
-[![Email](https://img.shields.io/badge/claude@edbn.dev-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:claude@edbn.dev)
+[![Email](https://img.shields.io/badge/me@edbn.dev-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:me@edbn.dev)
 
 </div>
 
