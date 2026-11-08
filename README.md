@@ -9,6 +9,7 @@
 [![SourceHut](https://img.shields.io/badge/SourceHut-1a1a1a?style=flat-square&logo=sourcehut&logoColor=white)](https://sr.ht/~eduardoroboto/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/edbn)
 [![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=flat-square&logo=mastodon&logoColor=white)](https://mstdn.social/@eduardoroboto)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-9330-6628)
 [![Email](https://img.shields.io/badge/me@edbn.dev-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:me@edbn.dev)
 
 </div>
@@ -17,9 +18,9 @@
 
 Brazilian full-stack developer focused on building secure, scalable, and production-ready backend systems. My core is **Java + Spring Boot**, and I've spent years designing distributed architectures, authentication flows with **Keycloak + Spring Gateway**, event-driven pipelines with **Kafka**, and integrating complex business logic with relational and document databases.
 
-On the frontend side I work with **Thymeleaf** and **HTMX**, keeping things server-driven and simple. Beyond web stacks, I carry a background in **Python** and **Shell scripting**, and a long-running interest in **Lisp / Common Lisp** — I collect and read programming language books as a hobby.
+On the frontend side I work with **Thymeleaf** and **HTMX**, keeping things server-driven and simple. Beyond web stacks, I carry a background in **Python** and **Shell scripting**, and a long-running interest in **Lisp / Common Lisp** and functional languages like **Scheme** — I collect and read programming language books as a hobby.
 
-I work in the public sector, delivering critical systems across areas like public security, vehicle tracking, and digital identity.
+I currently work as a **Systems Analyst (Analista de Sistemas N-1)** at the Government of the State of Ceará, delivering critical systems across public security, vehicle tracking, and digital identity.
 
 ---
 
@@ -72,12 +73,11 @@ I work in the public sector, delivering critical systems across areas like publi
 
 ## Homelab
 
-Self-hosted infrastructure I run and maintain:
+Self-hosted infrastructure, virtualization, and smart home:
 
-- **MediaWiki** — internal knowledge base
-- **Jellyfin** — private media streaming with access control
-- **Tailscale** — encrypted private VPN across devices
-- **Sonarr / Radarr / Lidarr** — automated media library management
+- **Virtualization & Containers**: Proxmox VE · LXC · Docker · Portainer · Podman
+- **Automation & IoT**: Home Assistant (HAOS) · Hermes
+- **Storage & Services**: NAS · MediaWiki · Arr-Suite · Jellyfin · Tailscale
 
 ---
 
@@ -86,7 +86,7 @@ Self-hosted infrastructure I run and maintain:
 - Advanced Spring Boot patterns and distributed system design
 - Applied security in distributed applications
 - Forensic computing (academic and personal research)
-- Common Lisp / programming language theory
+- LISP / Common Lisp, functional languages (Scheme), and Emacs
 
 ---
 
@@ -96,12 +96,15 @@ Self-hosted infrastructure I run and maintain:
 
 - Participated in the CS student company (empresa júnior)
 - Volunteer at ICPC 2016
+- Undergraduate thesis (TCC): generative AI applied to serious game development, supervised by Prof. Dr. Maria Andréia Formico Rodrigues
 
 ---
 
-## Events & Extracurricular
+## Events
 
-- **ROADSEC** (FlipSide) · 2016–2019 — 🥉 3rd place, Cryptography Competition (2017)
+- **PyTalks PUG-CE** · 2025
+- **GDG DevFest Fortaleza** · 2025
+- **ROADSEC** · 2016–2019 — 🥉 3rd place, Cryptography Competition (2017)
 - **COFFORENSE** · 2018
 - **BrazilJS** · 2017
 
